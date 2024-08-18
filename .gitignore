@@ -1,0 +1,5 @@
+build/
+cmake-*/
+node_modules/
+.idea/
+*.pyc
